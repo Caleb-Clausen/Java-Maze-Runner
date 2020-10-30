@@ -16,13 +16,13 @@ Map file Example
 
 
 “java MazeRunner loop1.txt recursive”  code Output
-!(https://github.com/Caleb-Clausen/Java-Maze-Runner/blob/master/Maze%20Runner/ReadMeImages/Loop1%20Recursive%20Search.PNG)
+![](https://github.com/Caleb-Clausen/Java-Maze-Runner/blob/master/Maze%20Runner/ReadMeImages/Loop1%20Recursive%20Search.PNG)
 
 “java MazeRunner labrynth1.txt recursive”  code Output
-![GitHub Logo](https://github.com/Caleb-Clausen/Java-Maze-Runner/blob/master/Maze%20Runner/ReadMeImages/Labrynth1%20Recursive%20Search.PNG)
+![](https://github.com/Caleb-Clausen/Java-Maze-Runner/blob/master/Maze%20Runner/ReadMeImages/Labrynth1%20Recursive%20Search.PNG)
 
 “java MazeRunner Spiral1.txt iterative”  code Output
-![GitHub Logo](https://github.com/Caleb-Clausen/Java-Maze-Runner/blob/master/Maze%20Runner/ReadMeImages/Spiral1%20Iterative%20Search.PNG)
+![](https://github.com/Caleb-Clausen/Java-Maze-Runner/blob/master/Maze%20Runner/ReadMeImages/Spiral1%20Iterative%20Search.PNG)
 
 
 
