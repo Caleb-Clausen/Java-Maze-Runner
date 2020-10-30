@@ -10,6 +10,7 @@
 * Maze Runner Summery
 This program takes a text file, turns it into a 2D array and uses two different searching methods to search the 2D array. In this case the starting point of the Maze is a mouse represented by an “M” character. The mouse then searches until it finds the cheese represented by a “C” on the map. The console outputs an array value of each direction used to find the cheese such as “north”, “south”, “west”, “east” and a text representation of the path with “.”.
 Map file Example
+
 ![GitHub Logo](https://github.com/Caleb-Clausen/Java-Maze-Runner/blob/master/Maze%20Runner/ReadMeImages/Demo%20Map.PNG)
 
 
