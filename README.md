@@ -3,7 +3,7 @@
 *  Run Instructions
 1. Download the full repository 
 2. Navigate to the directory then with the Java SE installed, open up a cmd terminal.
-3. Type “javac QueueExperimenter.java” in the command line.
+3. Type “javac MazeRunner.java” in the command line.
 4. There are two different ways to call the mazes in the repositories for iterative searches, type “java MazeRunner loop1.txt iterative” or for the recursive search, “java MazeRunner loop1.txt recursive”
 
 
